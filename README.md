@@ -1,6 +1,6 @@
 # Miwok
 
-simple app to calculate score for basket game between 2 players.
+An app to learn some phrases and words from english in another language .
 
 
 
