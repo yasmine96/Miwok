@@ -13,7 +13,7 @@ An app to learn some phrases and words from english in another language .
 ## then you click on Family sector.
 <img src='screenshots/img2.png'  width="400px" height="500px">
 
-## then you click onCcolors sector.
+## then you click on Colors sector.
 <img src='screenshots/img3.png'  width="400px" height="500px">
 
 ## then you click on Phrases sector.
